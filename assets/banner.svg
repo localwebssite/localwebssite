@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Local Webs · Mario López</title>
+  <desc id="desc">Cabecera minimalista en blanco, negro y azul para el perfil de GitHub de Local Webs.</desc>
+  <rect width="1280" height="360" fill="#fafafa"/>
+  <path d="M40 42H1240M40 318H1240" stroke="#d9d9d9" stroke-width="2"/>
+  <circle cx="1174" cy="79" r="11" fill="#1858f8"/>
+  <text x="40" y="83" fill="#222222" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">LOCAL WEBS STUDIO</text>
+  <text x="40" y="198" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="-4">LOCAL WEBS</text>
+  <text x="40" y="266" fill="#565656" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" letter-spacing="1">MARIO LÓPEZ · DESARROLLO WEB Y SISTEMAS B2B</text>
+  <text x="40" y="342" fill="#777777" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="2">WEB / ERP / CRM</text>
+  <text x="1240" y="342" fill="#777777" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" text-anchor="end" letter-spacing="2">LOCALWEBS.SITE</text>
+</svg>
